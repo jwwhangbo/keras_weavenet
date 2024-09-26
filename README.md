@@ -5,8 +5,7 @@
         <img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg"/>
     </a>
     <a href="https://github.com/jwwhangbo/keras_weavenet">
-        <img src="https://img.shields.io/github/v/release/jwwhangbo/keras_weavenet"
-        />
+        <img alt="GitHub Release" src="https://img.shields.io/github/v/release/jwwhangbo/keras_weavenet"/>
     </a>
     <img src="https://img.shields.io/badge/keras-v.3.4.1-green"/>
 <div/>
